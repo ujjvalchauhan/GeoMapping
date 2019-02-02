@@ -1,0 +1,30 @@
+html,
+body,
+#map-id {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  padding: 10px;
+  background-color: white;
+}
+.light {
+  background-color: lightgreen;
+}
+.low {
+  background-color: yellowgreen;
+}
+.mild {
+  background-color: yellow;
+}
+.mod {
+  background-color: orange;
+}
+.high {
+  background-color: darkorange;
+}
+.severe {
+  background-color: red;
+}
